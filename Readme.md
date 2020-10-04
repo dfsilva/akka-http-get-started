@@ -2,7 +2,7 @@
 This is a getstarted project for Akka Http
 
 ---
-###Technologies
+##Technologies
 
 * Akka Http 
 * Akka Actors Typed
