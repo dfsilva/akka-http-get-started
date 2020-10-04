@@ -32,3 +32,22 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+firebase.json
+*.log
